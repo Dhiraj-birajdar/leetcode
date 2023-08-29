@@ -9,5 +9,5 @@ class Solution:
             elif i%5==0:
                 li.append("Buzz")
             else:
-                li.append(f"{i}")
+                li.append(str(i))
         return li
