@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/fizz-buzz">412. Fizz Buzz</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code>, return <em>a string array </em><code>answer</code><em> (<strong>1-indexed</strong>) where</em>:</p>
+<h2><a href="https://leetcode.com/problems/fizz-buzz">412. Fizz Buzz</a></h2><h3>Easy (9 min)</h3><hr><p>Given an integer <code>n</code>, return <em>a string array </em><code>answer</code><em> (<strong>1-indexed</strong>) where</em>:</p>
 
 <ul>
 	<li><code>answer[i] == &quot;FizzBuzz&quot;</code> if <code>i</code> is divisible by <code>3</code> and <code>5</code>.</li>
