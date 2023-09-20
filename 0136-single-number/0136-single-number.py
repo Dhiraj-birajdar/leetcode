@@ -3,3 +3,4 @@ class Solution:
         for i in nums:
             if nums.count(i) == 1:
                 return i
+            # nums.remove(i)
