@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/duplicate-emails">182. Duplicate Emails</a></h2><h3>Easy</h3><hr><p>Table: <code>Person</code></p>
+<h2><a href="https://leetcode.com/problems/duplicate-emails">182. Duplicate Emails</a></h2><h3>Easy (E mysql 00:10)</h3><hr><p>Table: <code>Person</code></p>
 
 <pre>
 +-------------+---------+
