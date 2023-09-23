@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/customers-who-never-order">183. Customers Who Never Order</a></h2><h3>Easy</h3><hr><p>Table: <code>Customers</code></p>
+<h2><a href="https://leetcode.com/problems/customers-who-never-order">183. Customers Who Never Order</a></h2><h3>Easy (E sql 00:20)</h3><hr><p>Table: <code>Customers</code></p>
 
 <pre>
 +-------------+---------+
