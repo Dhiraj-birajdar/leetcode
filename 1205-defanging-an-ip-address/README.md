@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/defanging-an-ip-address">1205. Defanging an IP Address</a></h2><h3>Easy</h3><hr><p>Given a valid (IPv4) IP <code>address</code>, return a defanged version of that IP address.</p>
+<h2><a href="https://leetcode.com/problems/defanging-an-ip-address">1205. Defanging an IP Address</a></h2><h3>Easy (E py 00:1)</h3><hr><p>Given a valid (IPv4) IP <code>address</code>, return a defanged version of that IP address.</p>
 
 <p>A <em>defanged&nbsp;IP address</em>&nbsp;replaces every period <code>&quot;.&quot;</code> with <code>&quot;[.]&quot;</code>.</p>
 
