@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reverse-words-in-a-string-iii">557. Reverse Words in a String III</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.</p>
+<h2><a href="https://leetcode.com/problems/reverse-words-in-a-string-iii">557. Reverse Words in a String III</a></h2><h3>Easy (E py 00:05)</h3><hr><p>Given a string <code>s</code>, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
