@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/reverse-string-ii">541. Reverse String II</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code> and an integer <code>k</code>, reverse the first <code>k</code> characters for every <code>2k</code> characters counting from the start of the string.</p>
+<h2><a href="https://leetcode.com/problems/reverse-string-ii">541. Reverse String II</a></h2><h3>Easy (E py 00:20)</h3><hr><p>Given a string <code>s</code> and an integer <code>k</code>, reverse the first <code>k</code> characters for every <code>2k</code> characters counting from the start of the string.</p>
 
 <p>If there are fewer than <code>k</code> characters left, reverse all of them. If there are less than <code>2k</code> but greater than or equal to <code>k</code> characters, then reverse the first <code>k</code> characters and leave the other as original.</p>
 
