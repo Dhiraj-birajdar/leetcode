@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/student-attendance-record-i">551. Student Attendance Record I</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> representing an attendance record for a student where each character signifies whether the student was absent, late, or present on that day. The record only contains the following three characters:</p>
+<h2><a href="https://leetcode.com/problems/student-attendance-record-i">551. Student Attendance Record I</a></h2><h3>Easy (E py 00:01)</h3><hr><p>You are given a string <code>s</code> representing an attendance record for a student where each character signifies whether the student was absent, late, or present on that day. The record only contains the following three characters:</p>
 
 <ul>
 	<li><code>&#39;A&#39;</code>: Absent.</li>
