@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences">2219. Maximum Number of Words Found in Sentences</a></h2><h3>Easy</h3><hr><p>A <strong>sentence</strong> is a list of <strong>words</strong> that are separated by a single space&nbsp;with no leading or trailing spaces.</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences">2219. Maximum Number of Words Found in Sentences</a></h2><h3>Easy (E py 00:05)</h3><hr><p>A <strong>sentence</strong> is a list of <strong>words</strong> that are separated by a single space&nbsp;with no leading or trailing spaces.</p>
 
 <p>You are given an array of strings <code>sentences</code>, where each <code>sentences[i]</code> represents a single <strong>sentence</strong>.</p>
 
