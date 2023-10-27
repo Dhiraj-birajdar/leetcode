@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer">1406. Subtract the Product and Sum of Digits of an Integer</a></h2><h3>Easy</h3><hr>Given an integer number <code>n</code>, return the difference between the product of its digits and the sum of its digits.
+<h2><a href="https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer">1406. Subtract the Product and Sum of Digits of an Integer</a></h2><h3>Easy (E py 00:05)</h3><hr>Given an integer number <code>n</code>, return the difference between the product of its digits and the sum of its digits.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
