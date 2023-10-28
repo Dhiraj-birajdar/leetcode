@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-multiples">2752. Sum Multiples</a></h2><h3>Easy</h3><hr><p>Given a positive integer <code>n</code>, find the sum of all integers in the range <code>[1, n]</code> <strong>inclusive</strong> that are divisible by <code>3</code>, <code>5</code>, or <code>7</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-multiples">2752. Sum Multiples</a></h2><h3>Easy (E py 00:05)</h3><hr><p>Given a positive integer <code>n</code>, find the sum of all integers in the range <code>[1, n]</code> <strong>inclusive</strong> that are divisible by <code>3</code>, <code>5</code>, or <code>7</code>.</p>
 
 <p>Return <em>an integer denoting the sum of all numbers in the given range satisfying&nbsp;the constraint.</em></p>
 
