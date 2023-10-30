@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero">1444. Number of Steps to Reduce a Number to Zero</a></h2><h3>Easy</h3><hr><p>Given an integer <code>num</code>, return <em>the number of steps to reduce it to zero</em>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero">1444. Number of Steps to Reduce a Number to Zero</a></h2><h3>Easy (E py 00:05)</h3><hr><p>Given an integer <code>num</code>, return <em>the number of steps to reduce it to zero</em>.</p>
 
 <p>In one step, if the current number is even, you have to divide it by <code>2</code>, otherwise, you have to subtract <code>1</code> from it.</p>
 
