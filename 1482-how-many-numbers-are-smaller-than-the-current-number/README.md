@@ -3,7 +3,7 @@
 <p>Return the answer in an array.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p> 
 
 <pre>
 <strong>Input:</strong> nums = [8,1,2,2,3]
