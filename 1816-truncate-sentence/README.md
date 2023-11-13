@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/truncate-sentence/">1816. Truncate Sentence</a></h2><h3>Easy</h3><hr><div><p>A <strong>sentence</strong> is a list of words that are separated by a single space with no leading or trailing spaces. Each of the words consists of <strong>only</strong> uppercase and lowercase English letters (no punctuation).</p>
+<h2><a href="https://leetcode.com/problems/truncate-sentence/">1816. Truncate Sentence</a></h2><h3>Easy (E py 00:10)</h3><hr><div><p>A <strong>sentence</strong> is a list of words that are separated by a single space with no leading or trailing spaces. Each of the words consists of <strong>only</strong> uppercase and lowercase English letters (no punctuation).</p>
 
 <ul>
 	<li>For example, <code>"Hello World"</code>, <code>"HELLO"</code>, and <code>"hello world hello world"</code> are all sentences.</li>
