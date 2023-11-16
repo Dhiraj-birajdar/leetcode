@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/">1846. Maximum Element After Decreasing and Rearranging</a></h2><h3>Medium</h3><hr><div><p>You are given an array of positive integers <code>arr</code>. Perform some operations (possibly none) on <code>arr</code> so that it satisfies these conditions:</p>
+<h2><a href="https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/">1846. Maximum Element After Decreasing and Rearranging</a></h2><h3>Medium (M py 00:30)</h3><hr><div><p>You are given an array of positive integers <code>arr</code>. Perform some operations (possibly none) on <code>arr</code> so that it satisfies these conditions:</p>
 
 <ul>
 	<li>The value of the <strong>first</strong> element in <code>arr</code> must be <code>1</code>.</li>
