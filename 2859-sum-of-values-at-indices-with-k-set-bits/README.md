@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/">2859. Sum of Values at Indices With K Set Bits</a></h2><h3>Easy</h3><hr><div><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/">2859. Sum of Values at Indices With K Set Bits</a></h2><h3>Easy (E py 00:05)</h3><hr><div><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and an integer <code>k</code>.</p>
 
 <p>Return <em>an integer that denotes the <strong>sum</strong> of elements in </em><code>nums</code><em> whose corresponding <strong>indices</strong> have <strong>exactly</strong> </em><code>k</code><em> set bits in their binary representation.</em></p>
 
