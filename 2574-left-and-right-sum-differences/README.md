@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/left-and-right-sum-differences/">2574. Left and Right Sum Differences</a></h2><h3>Easy</h3><hr><div><p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, find a <strong>0-indexed </strong>integer array <code>answer</code> where:</p>
+<h2><a href="https://leetcode.com/problems/left-and-right-sum-differences/">2574. Left and Right Sum Differences</a></h2><h3>Easy (E java 00:20)</h3><hr><div><p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, find a <strong>0-indexed </strong>integer array <code>answer</code> where:</p>
 
 <ul>
     <li><code>answer.length == nums.length</code>.</li>
