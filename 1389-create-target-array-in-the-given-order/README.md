@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/create-target-array-in-the-given-order/">1389. Create Target Array in the Given Order</a></h2><h3>Easy</h3><hr><div><p>Given two arrays of integers&nbsp;<code>nums</code> and <code>index</code>. Your task is to create <em>target</em> array under the following rules:</p>
+<h2><a href="https://leetcode.com/problems/create-target-array-in-the-given-order/">1389. Create Target Array in the Given Order</a></h2><h3>Easy (E java 00:20)</h3><hr><div><p>Given two arrays of integers&nbsp;<code>nums</code> and <code>index</code>. Your task is to create <em>target</em> array under the following rules:</p>
 
 <ul>
 	<li>Initially <em>target</em> array is empty.</li>
