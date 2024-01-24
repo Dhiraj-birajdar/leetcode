@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/duplicate-zeros/">1089. Duplicate Zeros</a></h2><h3>Easy</h3><hr><div><p>Given a fixed-length integer array <code>arr</code>, duplicate each occurrence of zero, shifting the remaining elements to the right.</p>
+<h2><a href="https://leetcode.com/problems/duplicate-zeros/">1089. Duplicate Zeros</a></h2><h3>Easy (E java 00:05)</h3><hr><div><p>Given a fixed-length integer array <code>arr</code>, duplicate each occurrence of zero, shifting the remaining elements to the right.</p>
 
 <p><strong>Note</strong> that elements beyond the length of the original array are not written. Do the above modifications to the input array in place and do not return anything.</p>
 
