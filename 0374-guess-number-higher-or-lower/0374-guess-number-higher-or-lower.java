@@ -9,23 +9,16 @@
 
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
-        // int g = guess(n);
-        // if(g == 0)
-        //     return n;
-        // else if( g == -1)
-        //     return guessNumber(n/2);
-        // else
-        //     return guessNumber() 
-        for(int g, s = n, i = 1 ;;i++){
-            g = guess(s);
-            if(g == 0)
-                return s;
-            else if(g == -1){
-                n = s;
-                s = s/2;
+        for(int gr, g = n ;;){
+            gr = guess(g);
+            if(gr == 0)
+                return g;
+            else if(gr == -1){
+                n = g;
+                g = g/2;
             }
             else
-                s = s+(n-s)/2;
+                g = g+(n-g)/2;
 
         }
     }
