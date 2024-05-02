@@ -13,6 +13,7 @@ class Solution {
         if(head.next == null)
             return head;      
         ListNode fast = head.next.next;
+        // using two pointer technique p1 moves 1 step p2 moves 2 step
         while(true){
             head = head.next;
             if(fast == null || fast.next == null)
