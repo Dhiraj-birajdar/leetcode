@@ -1,5 +1,5 @@
 class Solution {
-    public static void sortColors(int[] nums) {
+    public static void sortCountColors(int[] nums) {
         int numc[] = new int[3];
         for(int i = 0; i<nums.length; i++)
             numc[nums[i]]++;
@@ -10,7 +10,7 @@ class Solution {
         }
     }
 
-     public static void sortDutchColors(int[] nums) {
+     public static void sortColors(int[] nums) {
         int low = 0;
         int mid = 0;
         int high = nums.length - 1;
