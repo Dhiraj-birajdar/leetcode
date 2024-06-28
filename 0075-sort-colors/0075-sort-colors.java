@@ -1,5 +1,6 @@
 class Solution {
-    public static void sortCountColors(int[] nums) {
+    public static void sortColors(int[] nums) {
+        // count 0,1,2 frequency and modify array
         int numc[] = new int[3];
         for(int i = 0; i<nums.length; i++)
             numc[nums[i]]++;
@@ -10,7 +11,7 @@ class Solution {
         }
     }
 
-     public static void sortColors(int[] nums) {
+     public static void sortDutchFlagAlgoColors(int[] nums) {
         int low = 0;
         int mid = 0;
         int high = nums.length - 1;
