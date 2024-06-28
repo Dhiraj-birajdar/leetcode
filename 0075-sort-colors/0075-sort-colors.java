@@ -9,4 +9,33 @@ class Solution {
             }
         }
     }
+
+     public static void sortDutchColors(int[] nums) {
+        int low = 0;
+        int mid = 0;
+        int high = nums.length - 1;
+        
+        while (mid <= high) {
+            switch (nums[mid]) {
+                case 0:
+                    // Swap nums[low] and nums[mid]
+                    int temp0 = nums[low];
+                    nums[low] = nums[mid];
+                    nums[mid] = temp0;
+                    low++;
+                    mid++;
+                    break;
+                case 1:
+                    mid++;
+                    break;
+                case 2:
+                    // Swap nums[mid] and nums[high]
+                    int temp2 = nums[high];
+                    nums[high] = nums[mid];
+                    nums[mid] = temp2;
+                    high--;
+                    break;
+            }
+        }
+    }
 }
