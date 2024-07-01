@@ -25,6 +25,7 @@ git clone https://github.com/your_username/leetcode-solutions.git
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -35,6 +36,7 @@ git clone https://github.com/your_username/leetcode-solutions.git
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
