@@ -30,6 +30,7 @@ git clone https://github.com/your_username/leetcode-solutions.git
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2102-find-the-middle-index-in-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +50,8 @@ git clone https://github.com/your_username/leetcode-solutions.git
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
