@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/make-array-empty">2765. Make Array Empty</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> containing <strong>distinct</strong> numbers, and you can perform the following operations <strong>until the array is empty</strong>:</p>
+<h2><a href="https://leetcode.com/problems/make-array-empty">2659. Make Array Empty</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> containing <strong>distinct</strong> numbers, and you can perform the following operations <strong>until the array is empty</strong>:</p>
 
 <ul>
 	<li>If the first element has the <strong>smallest</strong> value, remove it</li>
