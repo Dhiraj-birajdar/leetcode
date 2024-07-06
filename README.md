@@ -31,6 +31,7 @@ git clone https://github.com/your_username/leetcode-solutions.git
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2765-make-array-empty](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2765-make-array-empty) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ git clone https://github.com/your_username/leetcode-solutions.git
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2765-make-array-empty](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2765-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +56,24 @@ git clone https://github.com/your_username/leetcode-solutions.git
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+## Greedy
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2765-make-array-empty) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2765-make-array-empty) |
+## Segment Tree
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2765-make-array-empty) |
+## Sorting
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2765-make-array-empty) |
+## Ordered Set
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2765-make-array-empty) |
 <!---LeetCode Topics End-->
