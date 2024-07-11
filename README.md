@@ -50,10 +50,12 @@ git clone https://github.com/your_username/leetcode-solutions.git
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
@@ -92,4 +94,8 @@ git clone https://github.com/your_username/leetcode-solutions.git
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0861-flipping-an-image) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
