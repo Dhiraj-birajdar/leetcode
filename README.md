@@ -85,6 +85,7 @@ git clone https://github.com/your_username/leetcode-solutions.git
 ## Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
