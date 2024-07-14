@@ -52,6 +52,7 @@ git clone https://github.com/your_username/leetcode-solutions.git
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,4 +100,13 @@ git clone https://github.com/your_username/leetcode-solutions.git
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
