@@ -43,6 +43,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0383-ransom-note) |
+| [1319-unique-number-of-occurrences](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -56,4 +57,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0647-palindromic-substrings) |
+## Array
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
