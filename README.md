@@ -25,6 +25,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1013-fibonacci-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -67,6 +69,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0002-add-two-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
