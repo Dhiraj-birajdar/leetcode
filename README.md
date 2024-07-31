@@ -29,6 +29,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Dynamic Programming
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -46,8 +47,13 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0383-ransom-note) |
+| [0647-palindromic-substrings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0647-palindromic-substrings) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0383-ransom-note) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
