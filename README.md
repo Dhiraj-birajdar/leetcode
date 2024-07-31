@@ -53,6 +53,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0383-ransom-note](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0383-ransom-note) |
 | [0647-palindromic-substrings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0647-palindromic-substrings) |
+| [3379-score-of-a-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3379-score-of-a-string) |
 ## Counting
 |  |
 | ------- |
