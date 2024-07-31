@@ -71,6 +71,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0001-two-sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
+| [0724-find-pivot-index](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Linked List
@@ -96,4 +97,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
