@@ -65,6 +65,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
 | [0647-palindromic-substrings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0647-palindromic-substrings) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0002-add-two-numbers) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -90,4 +92,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
