@@ -62,11 +62,13 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
 | [0647-palindromic-substrings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Linked List
@@ -83,4 +85,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
