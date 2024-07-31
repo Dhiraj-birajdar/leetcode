@@ -38,4 +38,16 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1013-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
