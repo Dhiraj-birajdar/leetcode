@@ -38,6 +38,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [1013-fibonacci-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -78,6 +79,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
