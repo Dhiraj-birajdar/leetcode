@@ -44,6 +44,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0383-ransom-note](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -61,4 +62,5 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
