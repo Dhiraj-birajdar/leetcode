@@ -72,6 +72,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0001-two-sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
+| [0162-find-peak-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0162-find-peak-element) |
 | [0724-find-pivot-index](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -103,4 +104,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0724-find-pivot-index) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
