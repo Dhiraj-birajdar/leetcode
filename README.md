@@ -56,6 +56,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0383-ransom-note](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0383-ransom-note) |
 | [0647-palindromic-substrings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0647-palindromic-substrings) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2470-removing-stars-from-a-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3379-score-of-a-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3379-score-of-a-string) |
 ## Counting
@@ -101,6 +102,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Stack
 |  |
 | ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
@@ -111,4 +113,12 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0162-find-peak-element) |
+## Greedy
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
