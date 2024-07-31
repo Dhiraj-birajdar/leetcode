@@ -27,6 +27,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1013-fibonacci-number) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
 |  |
