@@ -19,3 +19,19 @@ To get started, clone this repository:
 
 ```sh
 git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+<!---LeetCode Topics End-->
