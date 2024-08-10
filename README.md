@@ -25,6 +25,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
@@ -62,4 +63,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0975-range-sum-of-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
