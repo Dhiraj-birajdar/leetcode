@@ -43,6 +43,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0014-longest-common-prefix) |
 | [2727-number-of-senior-citizens](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Tree
 |  |
@@ -67,4 +68,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
