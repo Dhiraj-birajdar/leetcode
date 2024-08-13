@@ -31,15 +31,18 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2727-number-of-senior-citizens](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
