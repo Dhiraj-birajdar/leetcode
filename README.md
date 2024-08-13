@@ -27,6 +27,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0061-rotate-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
@@ -77,6 +78,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0061-rotate-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Trie
 |  |
 | ------- |
