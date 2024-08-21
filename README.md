@@ -47,6 +47,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2727-number-of-senior-citizens](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## String
 |  |
 | ------- |
@@ -104,4 +105,12 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Greedy
+|  |
+| ------- |
+| [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+## Sorting
+|  |
+| ------- |
+| [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
