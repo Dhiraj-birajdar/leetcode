@@ -117,4 +117,5 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
