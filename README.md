@@ -113,4 +113,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
