@@ -62,6 +62,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -69,6 +70,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -76,6 +78,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0975-range-sum-of-bst) |
 | [2384-root-equals-sum-of-children](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
