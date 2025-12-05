@@ -40,6 +40,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Array
 |  |
@@ -151,4 +152,12 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0584-find-customer-referee](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0610-triangle-judgement) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
