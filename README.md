@@ -59,6 +59,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0290-word-pattern) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2727-number-of-senior-citizens](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -112,6 +113,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0290-word-pattern) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Graph
 |  |
