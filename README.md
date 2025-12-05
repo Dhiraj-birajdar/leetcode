@@ -44,6 +44,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -92,6 +93,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Trie
 |  |
@@ -121,6 +123,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Bit Manipulation
 |  |
