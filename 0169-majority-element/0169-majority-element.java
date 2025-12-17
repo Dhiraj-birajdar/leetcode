@@ -1,5 +1,6 @@
 class Solution {
     public int majorityElement(int[] nums) {
+        // Moore's voting algorithm
         int count = 1;
         int result = nums[0];
         for (int i = 1; i < nums.length; i++) {
