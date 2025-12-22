@@ -35,6 +35,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -58,6 +59,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0643-maximum-average-subarray-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2727-number-of-senior-citizens](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
