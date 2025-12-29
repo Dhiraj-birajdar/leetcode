@@ -70,6 +70,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0290-word-pattern) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -130,6 +131,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0290-word-pattern) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Graph
@@ -157,6 +159,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0414-third-maximum-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
