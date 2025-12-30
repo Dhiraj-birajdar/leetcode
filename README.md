@@ -49,6 +49,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
@@ -69,6 +70,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0290-word-pattern) |
@@ -127,6 +129,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0205-isomorphic-strings) |
@@ -156,6 +159,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0217-contains-duplicate) |
