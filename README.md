@@ -58,6 +58,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -226,4 +227,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
