@@ -47,6 +47,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0027-remove-element) |
@@ -118,6 +119,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -161,6 +163,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0011-container-with-most-water) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
