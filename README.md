@@ -87,6 +87,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -97,6 +98,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0975-range-sum-of-bst) |
@@ -104,6 +106,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -194,6 +197,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Database
 |  |
