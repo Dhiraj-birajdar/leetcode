@@ -81,6 +81,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0242-valid-anagram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0290-word-pattern) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2727-number-of-senior-citizens](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Tree
@@ -152,6 +153,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0242-valid-anagram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Graph
 |  |
