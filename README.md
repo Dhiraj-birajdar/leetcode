@@ -80,6 +80,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0205-isomorphic-strings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0290-word-pattern) |
+| [0796-rotate-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0796-rotate-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -252,4 +253,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0238-product-of-array-except-self) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
