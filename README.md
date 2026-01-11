@@ -65,6 +65,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0347-top-k-frequent-elements](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2727-number-of-senior-citizens](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -138,6 +139,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0125-valid-palindrome) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
 | ------- |
@@ -257,4 +259,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
