@@ -28,6 +28,24 @@ class Solution {
         }
         return true;
     }
+
+    //use map for unicode characters
+    //Follow up: What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
+    public boolean isAnagramUnicode(String s, String t) {
+        if (s.length() != t.length())
+            return false;
+        Map<Integer, Integer> freq = new HashMap<>();
+
+        s.codePoints().forEach(cp -> freq.put(cp, freq.getOrDefault(cp, 0) + 1));
+        t.codePoints().forEach(cp -> freq.put(cp, freq.getOrDefault(cp, 0) - 1));
+
+        for (int count : freq.values()) {
+            if (count != 0)
+                return false;
+        }
+        return true;
+    }
+
 }
 
 // Approach (Anagram Check using Character Frequency):
