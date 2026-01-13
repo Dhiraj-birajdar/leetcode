@@ -54,6 +54,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0049-group-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,6 +138,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0125-valid-palindrome) |
@@ -186,6 +188,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0217-contains-duplicate) |
