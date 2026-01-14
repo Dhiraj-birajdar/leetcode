@@ -88,6 +88,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0796-rotate-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0796-rotate-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -276,6 +277,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0258-add-digits) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
