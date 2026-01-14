@@ -89,6 +89,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2727-number-of-senior-citizens](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Tree
 |  |
@@ -164,6 +165,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Graph
 |  |
 | ------- |
@@ -205,6 +207,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0222-count-complete-tree-nodes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,6 +250,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
