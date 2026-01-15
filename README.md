@@ -33,6 +33,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0263-ugly-number) |
@@ -53,6 +54,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -181,6 +183,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
