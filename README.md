@@ -90,6 +90,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0290-word-pattern](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0796-rotate-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1668-maximum-repeating-substring](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -219,6 +220,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1668-maximum-repeating-substring](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -277,6 +279,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Simulation
 |  |
 | ------- |
