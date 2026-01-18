@@ -37,6 +37,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0263-ugly-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
