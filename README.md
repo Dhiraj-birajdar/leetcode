@@ -65,6 +65,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -137,6 +138,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0975-range-sum-of-bst) |
