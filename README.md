@@ -75,6 +75,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2727-number-of-senior-citizens](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2951-find-the-peaks](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2951-find-the-peaks) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -294,4 +295,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
