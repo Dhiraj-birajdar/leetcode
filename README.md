@@ -79,6 +79,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [2951-find-the-peaks](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2951-find-the-peaks) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -222,6 +223,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0476-number-complement](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
