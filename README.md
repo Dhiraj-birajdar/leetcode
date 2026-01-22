@@ -35,6 +35,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0048-rotate-image](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0263-ugly-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -157,6 +158,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -171,6 +173,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0049-group-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0242-valid-anagram) |
