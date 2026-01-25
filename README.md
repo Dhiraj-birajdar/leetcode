@@ -29,6 +29,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0061-rotate-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Math
@@ -160,6 +161,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -175,6 +177,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0049-group-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0205-isomorphic-strings) |
