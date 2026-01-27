@@ -40,6 +40,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0263-ugly-number) |
+| [1323-maximum-69-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -208,6 +209,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1323-maximum-69-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
