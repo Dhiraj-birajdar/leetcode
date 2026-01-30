@@ -49,6 +49,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -93,6 +94,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0125-valid-palindrome) |
