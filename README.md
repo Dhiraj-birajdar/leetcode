@@ -80,6 +80,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0414-third-maximum-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2727-number-of-senior-citizens](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2727-number-of-senior-citizens) |
