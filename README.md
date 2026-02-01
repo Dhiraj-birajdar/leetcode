@@ -74,6 +74,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0162-find-peak-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -187,6 +188,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -225,6 +227,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0088-merge-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0414-third-maximum-number) |
@@ -283,6 +286,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
