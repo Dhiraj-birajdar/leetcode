@@ -86,6 +86,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2727-number-of-senior-citizens](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2951-find-the-peaks](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2951-find-the-peaks) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -233,6 +234,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0414-third-maximum-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Bit Manipulation
@@ -325,4 +327,5 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2951-find-the-peaks) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
