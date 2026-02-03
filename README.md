@@ -37,6 +37,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0048-rotate-image](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0263-ugly-number) |
@@ -73,6 +74,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -169,6 +171,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0125-valid-palindrome](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
