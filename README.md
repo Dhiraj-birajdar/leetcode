@@ -51,6 +51,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -62,6 +63,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0015-3sum](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0053-maximum-subarray) |
@@ -165,6 +167,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -253,6 +256,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1668-maximum-repeating-substring](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -333,4 +337,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [2951-find-the-peaks](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dhiraj-birajdar/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
