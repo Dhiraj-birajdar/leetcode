@@ -30,6 +30,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0146-lru-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Math
@@ -193,6 +194,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0128-longest-consecutive-sequence](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0205-isomorphic-strings) |
@@ -277,6 +279,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Queue
@@ -341,4 +344,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0042-trapping-rain-water) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
