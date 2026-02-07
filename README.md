@@ -42,6 +42,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0263-ugly-number) |
+| [0633-sum-of-square-numbers](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1323-maximum-69-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -158,6 +159,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0074-search-a-2d-matrix](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0633-sum-of-square-numbers](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Two Pointers
@@ -180,6 +182,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | [0189-rotate-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhiraj-birajdar/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
