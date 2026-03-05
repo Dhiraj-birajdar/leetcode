@@ -37,6 +37,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0202-happy-number) |
@@ -263,6 +264,7 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1668-maximum-repeating-substring](https://github.com/Dhiraj-birajdar/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Breadth-First Search
@@ -351,4 +353,8 @@ git clone https://github.com/dhiraj-birajdar/leetcode-solutions.git
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0146-lru-cache) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dhiraj-birajdar/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
